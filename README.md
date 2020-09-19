@@ -10,9 +10,9 @@ Sendo assim, nossa atuação é pautada pelo bem-estar de nossas participantes e
 
 ## Políticas para participação em eventos
 
-    a. Como público e/ou convidadas para assistir ou contribuir pontualmente em rodas de conversas, palestras, cursos, workshops e etc. 
+> a. Como público e/ou convidadas para assistir ou contribuir pontualmente em rodas de conversas, palestras, cursos, workshops e etc. 
 
-    b. Como promotoras/desenvolvedoras de cursos, workshops, palestras e eventos em geral que exijam a proposição e/ou planejamento de atividades pelas Pyladies DF.
+> b. Como promotoras/desenvolvedoras de cursos, workshops, palestras e eventos em geral que exijam a proposição e/ou planejamento de atividades pelas Pyladies DF.
 
 ### Antes do evento:
 
