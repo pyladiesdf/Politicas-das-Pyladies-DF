@@ -53,4 +53,5 @@ Sendo assim, nossa atuação é pautada pelo bem-estar de nossas participantes e
 
 ## Observação
 
-Esse documento está em permanente construção. Se quiser adicionar ideias e/ou sugestões à política, envie um PR editando esse arquivo. Se tiver dúvidas de como fazer isso, acesse esse tutorial.
+Esse documento está em permanente construção. Se quiser adicionar ideias e/ou sugestões à política, envie um PR editando esse arquivo. Se tiver dúvidas de como fazer isso, [acesse esse tutorial](https://docs.github.com/pt/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
